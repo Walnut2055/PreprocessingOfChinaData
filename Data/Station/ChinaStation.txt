@@ -1,0 +1,29 @@
+STATION_ID	NATION	Area1	Area2	LON	LAT	X	Y	권역	중권역	소권역	세부권역
+1114A	china	EastNorth	Liaoning	38.85611111	121.5180556	73	68	동북	랴오닝성	다롄시	
+1113A	china	EastNorth	Liaoning	38.86388889	121.625	74	68	동북	랴오닝성	다롄시	
+1118A	china	EastNorth	Liaoning	39.0631	121.9769	75	69	동북	랴오닝성	다롄시	
+1110A	china	EastNorth	Liaoning	38.95111111	121.565	74	69	동북	랴오닝성	다롄시	
+1117A	china	EastNorth	Liaoning	39.0511	121.7769	74	69	동북	랴오닝성	다롄시	
+1115A	china	EastNorth	Liaoning	38.80805556	121.2588889	73	68	동북	랴오닝성	다롄시	
+1111A	china	EastNorth	Liaoning	38.885	121.5638889	74	68	동북	랴오닝성	다롄시	
+1109A	china	EastNorth	Liaoning	38.97388889	121.6119444	74	69	동북	랴오닝성	다롄시	
+1116A	china	EastNorth	Liaoning	39.1311	121.7481	74	69	동북	랴오닝성	다롄시	
+1112A	china	EastNorth	Liaoning	38.91194444	121.6330556	74	69	동북	랴오닝성	다롄시	
+2019A	china	EastNorth	Liaoning	39.617	122.011	75	71	동북	랴오닝성	다롄시	와팡뎬 시
+2018A	china	EastNorth	Liaoning	39.625	121.989	75	71	동북	랴오닝성	다롄시	와팡뎬 시
+1379A	china	EastNorth	Liaoning	22.5211	113.3769	38	5	동북	랴오닝성	다롄시	중산 구
+1380A	china	EastNorth	Liaoning	22.5497	113.3881	38	5	동북	랴오닝성	다롄시	중산 구
+1381A	china	EastNorth	Liaoning	22.5111	113.4075	38	5	동북	랴오닝성	다롄시	중산 구
+1382A	china	EastNorth	Liaoning	22.4853	113.4411	38	5	동북	랴오닝성	다롄시	중산 구
+1601A	china	EastNorth	Liaoning	40.1503	124.4256	83	73	동북	랴오닝성	단둥시	
+1602A	china	EastNorth	Liaoning	40.1461	124.3933	83	73	동북	랴오닝성	단둥시	
+1603A	china	EastNorth	Liaoning	40.1194	124.3678	83	73	동북	랴오닝성	단둥시	
+1600A	china	EastNorth	Liaoning	40.0625	124.3303	82	73	동북	랴오닝성	단둥시	
+2212A	china	EastNorth	Liaoning	41.1953	123.2	79	77	동북	랴오닝성	랴오양시	
+2213A	china	EastNorth	Liaoning	41.2553	123.15	79	78	동북	랴오닝성	랴오양시	
+2214A	china	EastNorth	Liaoning	41.2736	123.1761	79	78	동북	랴오닝성	랴오양시	
+2215A	china	EastNorth	Liaoning	41.2894	123.1417	79	78	동북	랴오닝성	랴오양시	
+1764A	china	EastNorth	Liaoning	41.2864	123.7669	81	78	동북	랴오닝성	번시시	
+1761A	china	EastNorth	Liaoning	41.3283	123.8436	81	78	동북	랴오닝성	번시시	
+1766A	china	EastNorth	Liaoning	41.3472	123.8142	81	78	동북	랴오닝성	번시시	
+1763A	china	EastNorth	Liaoning	41.3047	123.7308	81	78	동북	랴오닝성	번시시	
